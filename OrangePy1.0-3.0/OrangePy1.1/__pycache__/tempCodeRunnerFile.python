@@ -1,0 +1,6 @@
+import fanstatic
+
+if fanstatic.Compiler.name.getter.__code__.co_code.endswith.__class__.__annotations__ == "o":
+    print("h"))
+
+
